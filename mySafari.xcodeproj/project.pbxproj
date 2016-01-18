@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		79BEFC6F1C4CEBD500A3B9EA /* mySafari.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mySafari.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		79BEFC6F1C4CEBD500A3B9EA /* mySafari.temp_caseinsensitive_rename.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mySafari.temp_caseinsensitive_rename.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		79BEFC731C4CEBD500A3B9EA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		79BEFC7E1C4CEBD500A3B9EA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		79BEFC831C4CEBD500A3B9EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -52,7 +52,7 @@
 		79BEFC701C4CEBD500A3B9EA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				79BEFC6F1C4CEBD500A3B9EA /* mySafari.app */,
+				79BEFC6F1C4CEBD500A3B9EA /* mySafari.temp_caseinsensitive_rename.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -99,7 +99,7 @@
 			);
 			name = mySafari;
 			productName = mySafari;
-			productReference = 79BEFC6F1C4CEBD500A3B9EA /* mySafari.app */;
+			productReference = 79BEFC6F1C4CEBD500A3B9EA /* mySafari.temp_caseinsensitive_rename.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -251,7 +251,7 @@
 				INFOPLIST_FILE = mySafari/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ethan.mySafari;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = mySafari.temp_caseinsensitive_rename;
 			};
 			name = Debug;
 		};
@@ -262,7 +262,7 @@
 				INFOPLIST_FILE = mySafari/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ethan.mySafari;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = mySafari.temp_caseinsensitive_rename;
 			};
 			name = Release;
 		};

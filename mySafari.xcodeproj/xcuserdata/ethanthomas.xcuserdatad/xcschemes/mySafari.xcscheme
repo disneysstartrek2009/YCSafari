@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "79BEFC6E1C4CEBD500A3B9EA"
-               BuildableName = "mySafari.app"
+               BuildableName = "mySafari.temp_caseinsensitive_rename.app"
                BlueprintName = "mySafari"
                ReferencedContainer = "container:mySafari.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "79BEFC6E1C4CEBD500A3B9EA"
-            BuildableName = "mySafari.app"
+            BuildableName = "mySafari.temp_caseinsensitive_rename.app"
             BlueprintName = "mySafari"
             ReferencedContainer = "container:mySafari.xcodeproj">
          </BuildableReference>
@@ -56,7 +56,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "79BEFC6E1C4CEBD500A3B9EA"
-            BuildableName = "mySafari.app"
+            BuildableName = "mySafari.temp_caseinsensitive_rename.app"
             BlueprintName = "mySafari"
             ReferencedContainer = "container:mySafari.xcodeproj">
          </BuildableReference>
@@ -75,7 +75,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "79BEFC6E1C4CEBD500A3B9EA"
-            BuildableName = "mySafari.app"
+            BuildableName = "mySafari.temp_caseinsensitive_rename.app"
             BlueprintName = "mySafari"
             ReferencedContainer = "container:mySafari.xcodeproj">
          </BuildableReference>
