@@ -24,7 +24,7 @@
 		79BEFC891C4CEBF300A3B9EA /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = ../../newcloud/AppDelegate.h; sourceTree = "<group>"; };
 		79BEFC8A1C4CEBF300A3B9EA /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = ../../newcloud/AppDelegate.m; sourceTree = "<group>"; };
 		79BEFC8C1C4CEC0A00A3B9EA /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ViewController.h; path = ../../newcloud/ViewController.h; sourceTree = "<group>"; };
-		79BEFC8D1C4CEC0A00A3B9EA /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ViewController.m; path = ../../newcloud/ViewController.m; sourceTree = "<group>"; };
+		79BEFC8D1C4CEC0A00A3B9EA /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ViewController.m; path = /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/../../../../../../../../../Users/ethanthomas/Desktop/newcloud/ViewController.m; sourceTree = "<absolute>"; };
 		79BEFC8F1C4CEC2700A3B9EA /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = ../../newcloud/Main.storyboard; sourceTree = "<group>"; };
 		79BEFC911C4CEC4A00A3B9EA /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = index.html; path = ../../newcloud/index.html; sourceTree = "<group>"; };
 		79BEFC921C4CEC4A00A3B9EA /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = ../../newcloud/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -285,6 +285,7 @@
 				79BEFC881C4CEBD500A3B9EA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
